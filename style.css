@@ -236,6 +236,7 @@ a {
 .recommend-goods {
     overflow: hidden;
 }
+
 .recommend-goods li{
     float: left;
     width: 225px;
@@ -244,6 +245,10 @@ a {
     margin-right: 15px;
     background-color: white;
     margin-bottom: 15px;
+}
+
+.recommend-goods li img {
+    width: 225px;
 }
 
 .recommend-goods li h4{
